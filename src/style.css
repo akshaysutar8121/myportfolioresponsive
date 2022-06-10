@@ -1,0 +1,29 @@
+
+*{
+  margin:0;
+  padding:0;
+}
+.main ul li{
+
+
+}
+.main ul li:hover{
+
+
+}
+.main ul{
+  
+}
+body{
+  font-family: "Gill Sans", sans-serif;
+}
+/* hide scrollbar but allow scrolling */
+body {
+  -ms-overflow-style: none; /* for Internet Explorer, Edge */
+  scrollbar-width: none; /* for Firefox */
+  overflow-y: scroll; 
+}
+
+body::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
